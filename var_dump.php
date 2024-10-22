@@ -1,8 +1,8 @@
 <?php
-$servername = "server335.web-hosting.com";
-$username = "tygotder_jedemajed";
-$password = "Fcmedemblik2006!";
-$dbname = "tygotder_bvo";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
  
 // Create connection in mysqli
  
